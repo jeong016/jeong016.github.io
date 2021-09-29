@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://jeong016.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://jeong016.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-09-29T09:37:39+09:00</updated>
+  <id>https://jeong016.github.io/tag/jekyll/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">IT | </title>
+  
+
+  
+    <subtitle>IT</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Jekyll 강좌(1) - blog 만들기</title>
+      <link href="https://jeong016.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - blog 만들기" />
+      <published>2021-09-27T13:40:00+09:00</published>
+      <updated>2021-09-27T13:40:00+09:00</updated>
+      <id>https://jeong016.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://jeong016.github.io/jekyll-basic">&lt;p&gt;blog Test 관련 포스팅&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>m-jeong</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jekyll" />
+      
+
+      
+        <summary type="html">blog Test 관련 포스팅</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
